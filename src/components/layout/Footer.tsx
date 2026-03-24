@@ -29,9 +29,9 @@ function Footer() {
           <div className="footer__contact">
             <h4 className="footer__title">Contact</h4>
             <ul>
-              <li><a href="mailto:tuemail@correo.com">Email</a></li>
-              <li><a href="https://linkedin.com" target="_blank">LinkedIn</a></li>
-              <li><a href="https://github.com" target="_blank">GitHub</a></li>
+              <li><a href="mailto:kevin.guerrero1223@gmail.com">Email</a></li>
+              <li><a href="https://www.linkedin.com/in/guer98/" target="_blank">LinkedIn</a></li>
+              <li><a href="https://github.com/Guer1298" target="_blank">GitHub</a></li>
             </ul>
           </div>
 
